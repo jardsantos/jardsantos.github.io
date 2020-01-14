@@ -8,11 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jardel Santos # add your name
 author-img: jardelsantos.jpeg # add your photo
-about-author: "Data Scientist.
-
-break line test
-
-break 2" # add description
+about-author: # add description
 social-github: jardsantos # add your Github handle
 social-linkedin: jardel-santos-87823a95 # add your Linkedin handle
 social-email: jardelsantos44@gmail.com # add your Email address
@@ -31,7 +27,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 3
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
