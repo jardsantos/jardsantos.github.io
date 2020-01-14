@@ -8,8 +8,9 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jardel Santos # add your name
 author-img: jardelsantos.jpeg # add your photo
-about-author: Data Scientist. |
-break line test |
+about-author: |
+Data Scientist.
+break line test
 break line 2 test # add description
 social-twitter: /# # add your Twitter handle
 social-facebook: /# # add your Facebook handle
