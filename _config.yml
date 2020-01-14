@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jardel Santos # add your name
 author-img: jardelsantos.jpeg # add your photo
-about-author: "Data Scientist.\nbreak line test" # add description
+about-author: | "Data Scientist.\nbreak line test" # add description
 social-github: jardsantos # add your Github handle
 social-linkedin: jardel-santos-87823a95 # add your Linkedin handle
 social-email: jardelsantos44@gmail.com # add your Email address
